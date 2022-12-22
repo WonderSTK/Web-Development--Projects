@@ -1,8 +1,8 @@
 # Web Development Projects
 
-[![GitHub stars](https://img.shields.io/github/stars/themlphdstudent/awesome-github-profile-readme-templates.svg)](https://github.com/WonderSTK/Web-Development-Projects/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/WonderSTK/Web-Development-Projects/network)
-[![GitHub contributors](https://img.shields.io/github/contributors/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/WonderSTK/Web-Development-Projects/network)
+[![GitHub stars](https://img.shields.io/github/stars/WonderSTK/Web-Development-Projects.svg)](https://github.com/WonderSTK/Web-Development-Projects/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/WonderSTK/Web-Development-Projects.svg?color=blue)](https://github.com/WonderSTK/Web-Development-Projects/network)
+[![GitHub contributors](https://img.shields.io/github/contributors/WonderSTK/Web-Development-Projects.svg?color=blue)](https://github.com/WonderSTK/Web-Development-Projects/network)
 
 A collection of GitHub profile README's examples.
 
