@@ -63,6 +63,7 @@ p {
 
 #features {
     padding: 7% 15%;
+    background-color: #fff;
 
 }
 
@@ -93,6 +94,10 @@ p {
     border-radius: 100%;
 }
 
+.carousel-item {
+    padding: 7% 15%;
+}
+
 #press {
     background-color: #ff4c68;
     text-align: center;
@@ -102,4 +107,14 @@ p {
 .press-logo {
     width: 15%;
     margin: 20px 20px 50px;
+}
+
+/* pricing section */
+#pricing {
+    padding: 100px;
+    text-align: center;
+}
+
+.pricing-column {
+    padding: 3% 2%;
 }
